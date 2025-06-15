@@ -3,9 +3,6 @@ Saul Greenberg‘s Timelapse software annotates photos (.jpg) and videos (.avi, 
 
 ![Timelapse Thumbnail](FADAIR2022-Timelapse-Thumbnail.png)
 
-## Acknowledgements
-I would like to thank Naomi Matthews and Stuart Nixon for their expertise and guidance.<br>
-
 ## References
 
 - Greenberg S. (2022). Timelapse Database Guide. Retrieved from: https://saul.cpsc.ucalgary.ca/timelapse/pmwiki.php?n=Main.UserGuide
